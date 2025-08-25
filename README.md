@@ -47,26 +47,25 @@ A real-time conversational voice chatbot replicating the functionality of Revolt
 
 ---
 
-## 📁 Folder Structure
+## 📂 Folder Structure
 
-REVOLT-ChatBot-ASSISTANT/
+REVOlT-ChatBot-ASSISTANT/
 │
 ├── node_modules/
 │
 ├── Public/
-│   ├── client.js       # Client-side JS logic
-│   ├── index.html      # Frontend UI
-│   └── style.css       # Styling
+│ ├── client.js # Client-side JS logic
+│ ├── index.html # Frontend UI
+│ └── style.css # Styling
 │
 ├── Server/
-│   └── index.js        # Backend server code
+│ └── index.js # Backend server code
 │
-├── .env                # API Key (Do NOT upload to GitHub)
-├── .env.example (ignore it)
+├── .env # API Key (Do NOT upload to GitHub)
+├── .env.example # (ignore it)
 ├── package-lock.json
 ├── package.json
 └── README.md
-
 
 ---
 
