@@ -48,7 +48,7 @@ A real-time conversational voice chatbot replicating the functionality of Revolt
 ---
 
 ## 📂 Folder Structure
-
+```
 REVOlT-ChatBot-ASSISTANT/
 │
 ├── node_modules/
@@ -67,7 +67,7 @@ REVOlT-ChatBot-ASSISTANT/
 ├── package.json
 └── README.md
 
----
+```
 
 ## ✅ How It Works
 1. 🎤 User speaks → Mic captures voice → Converts to text → Sends to server.  
